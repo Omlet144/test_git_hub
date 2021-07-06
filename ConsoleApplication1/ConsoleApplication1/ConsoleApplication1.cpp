@@ -16,4 +16,7 @@ int main()
 
 	C_Window win2(1236);
 	std::cout << win2 << "\n";
+
+	win2.open();
+	std::cout << win2 << "\n";
 }
