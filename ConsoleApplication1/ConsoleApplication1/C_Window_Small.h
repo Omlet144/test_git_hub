@@ -8,5 +8,6 @@ public:
         C_Window(size) {
 
     }
+
 };
 

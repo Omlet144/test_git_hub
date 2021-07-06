@@ -13,4 +13,7 @@ int main()
 		
 	C_Window_Big wind_big(20);
 	std::cout << wind_big << "\n";
+
+	C_Window win2(1236);
+	std::cout << win2 << "\n";
 }
